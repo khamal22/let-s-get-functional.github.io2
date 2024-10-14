@@ -39,7 +39,7 @@ const _ = require('lodown-oliviasaborush');
  - **Objective**: Find the number of female customers
  - **Input**: `Array`
  - **Output**: `Number`
- - **Constraints**: use `reduce`
+ - **Constraints**: use `reduce` 
 
 ### 3: `oldestCustomer`
  - **Objective**: Find the oldest customer's name
